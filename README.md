@@ -13,7 +13,7 @@ This is a repository of Received Signal Strength (RSS) and Link Quality Indicato
 Sets of experimental RSSI measurements collected with Tmote-Sky wireless sensors in different environments. You can download all such data through the links belows, together with the specifics of the experimental settings and a short description of the platforms.
 
  * [Data set 1](https://github.com/r4m/rssi-data/blob/master/20101109/20101109_Automatica_Fixed_Sensor_Campaign_PUBLIC.zip) and its [readme](https://github.com/r4m/rssi-data/blob/master/20101109/README_20101109.txt) file
- * [Data set 2](https://github.com/r4m/rssi-data/blob/master/20101109/20101109_Automatica_Fixed_Sensor_Campaign_PUBLIC.zip) and its [readme](https://github.com/r4m/rssi-data/blob/master/20101109/README_20101109.txt) file
+ * [Data set 2](https://github.com/r4m/rssi-data/blob/master/20110201/20110201_Automatica_Mobile_Sensor_Campaign_PUBLIC.zip) and its [readme](https://github.com/r4m/rssi-data/blob/master/20110201/README_20110201.txt) file
 
 ## Multiple channels
 
