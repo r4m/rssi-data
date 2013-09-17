@@ -1,0 +1,42 @@
+/*
+ * Copyright (c) 2010, Department of Information Engineering, University of Padova.
+ * All rights reserved.
+ *
+ * ===================================================================================
+
+
+In the 'map' folder there is the PDF and BMP images of the deployment of the sensors.
+
+ - in the file 'output_sensors.mat' there are the information about the sensors (nick, positions x-y-z, ID),
+
+ - in the file 'settings.txt' there are the information about the pixel <-> meter conversion;
+
+
+In the 'data' folder there are the radio data collected by the sensors from Fri Apr 01 22:03:02 CEST 2011 till Sat Apr 02 6:10:00 CEST 2011.
+
+The tabled informations are:
+
+ - [ID] identification number of the sensor
+
+ - [RSS(dBm)] received signal strength indicator
+
+ - [RSSI(dBm)] received signal strength
+ 
+ - [LQI(dBm)] link quality indicator
+
+ - [Ch] transmission channel
+
+ - [Power] transmission power
+
+ - [Counter] packet counter
+
+ - [Time(ms)] packet timestamp
+
+The data had been acquired with the "16 channel" version of Lael. Lael is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation,either version 3 of the License, or (at your option) any later version.
+Lael can be found at http://sourceforge.net/projects/lael/.
+
+Massimo Marra
+
+
+marramas[AT]dei.unipd.it
+
