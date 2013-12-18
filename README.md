@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://dl.dropboxusercontent.com/u/4933731/tinyosdei-logo-small.jpg" alt="TinyOS @ DEI" />
+<img src="http://www.filippozanella.com/wp-content/uploads/github/tinyosdei-logo-small.jpg" alt="TinyOS @ DEI" />
 </a>
 </p>
 
